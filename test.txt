@@ -6,3 +6,6 @@ Formation autour d'angular et dotnetcore
 
 
 You know I love it!!!
+
+
+Les infos que j'ai ajouté sont faites directement sur GitHub
